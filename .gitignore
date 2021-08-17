@@ -1,0 +1,5 @@
+# ignores the folder thisFolderShouldIgnore
+/thisFolderShouldIgnore
+
+#ignore the ignoredText.txt
+ignoredText.txt
